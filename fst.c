@@ -6,7 +6,7 @@ int main(void)
 
     printf("What's you Name ?\n"); 
     scanf("%s", name);
-    printf("Hello, %s have a great day ahead\n", name);
+    printf("Hello, %s have a great day ahead \n", name);
     return 0;
 
 }
